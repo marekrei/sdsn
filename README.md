@@ -6,15 +6,18 @@ Project for scoring lexical relations between two words, for example detecting h
 
 This is code for the following paper:
 
-[Scoring Lexical Entailment with a Supervised Directional Similarity Network](http://aclweb.org/anthology/P18-2101)
-Marek Rei, Daniela Gerz and Ivan Vulić
-In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
-Melbourne, Australia, 2018
+[Scoring Lexical Entailment with a Supervised Directional Similarity Network](http://aclweb.org/anthology/P18-2101). 
+Marek Rei, Daniela Gerz and Ivan Vulić. 
+In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018). 
+Melbourne, Australia, 2018.
 
 
 Paper: [http://aclweb.org/anthology/P18-2101](http://aclweb.org/anthology/P18-2101)
+
 ArXiv: [https://arxiv.org/abs/1805.09355](https://arxiv.org/abs/1805.09355)
+
 ACL 2018 presentation: [https://vimeo.com/285805844](https://vimeo.com/285805844)
+
 ACL 2018 slides: [http://www.marekrei.com/pub/presentation-2018-acl-ssnhyperlex.pdf](http://www.marekrei.com/pub/presentation-2018-acl-ssnhyperlex.pdf)
 
 
