@@ -107,7 +107,7 @@ Because this is trained with a specific random seed, as opposed to an average ov
 
 ||DEV |TEST |
 |---|---|---|
-|SDSN+AS(v0) |0.7455 |0.6842 |
+|SDSN+AS (v0) |0.7455 |0.6842 |
 
 
 To try out the pretrained model, run:
