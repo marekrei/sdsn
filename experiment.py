@@ -186,8 +186,8 @@ def run_experiment(config_path):
 
     embedding_vocab_set = construct_embedding_vocab([config["word_embedding_path_a"], config["word_embedding_path_b"]])
 
-    if len(embedding_vocab_set) > 0 and len(data_pretrain) > 0:
-        data_pretrain = [x for x in data_pretrain if (x[1] in embedding_vocab_set and x[2] in embedding_vocab_set)]
+#    if len(embedding_vocab_set) > 0 and len(data_pretrain) > 0:
+#        data_pretrain = [x for x in data_pretrain if (x[1] in embedding_vocab_set and x[2] in embedding_vocab_set)]
 
     vocabulary = construct_vocabulary([data_train, data_dev, data_test, data_pretrain], embedding_vocab_set if config["restrict_to_embedded_vocab"] == True else None)
     if "extend_vocabulary" in config and config["extend_vocabulary"] == True:
